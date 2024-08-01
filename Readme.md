@@ -333,8 +333,12 @@ sortStrings(["zebra", "monkey", "apple"]);
 ```
 ---
 
-# Submission Details
-**Submitting Date**: 2/08/2024
-**Everything is followed as per steps**: Yes 
-**Assignment Level**: Easy
-**Code Quality Is Maintained?**: Yes 
+## Submission Details
+
+- **Submitting Date**: 2/08/2024
+
+- **Everything is followed as per steps**: Yes
+
+- **Assignment Level**: Easy
+
+- **Code Quality Is Maintained?**: Yes
